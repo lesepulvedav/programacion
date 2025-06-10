@@ -22,5 +22,6 @@ for alumno in cursos:
     print("Nombre: " ,alumno[0])
     print("Dirección: ", alumno[1])
     print("Teléfono: ", alumno[2])
+    print("Wena choro")
     print("") 
 
